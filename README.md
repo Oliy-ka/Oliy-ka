@@ -1,5 +1,5 @@
-Hello, I'm Olga 👋  
-Front-End Developer  
+#Hello, I'm Olga 👋  
+##Front-End Developer  
 
 Welcome to my GitHub!  
 Here you can explore my personal projects, team collaborations, and experiments as I grow as a front-end developer. I focus on clean UI, reusable components, and writing maintainable, readable code.  
